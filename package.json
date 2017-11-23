@@ -1,0 +1,19 @@
+{
+  "name": "tesis_eduareco",
+  "version": "1.0.0",
+  "description": "Proyecto de tesis carrera Analisis de sistemas UTIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLunPy/tesis_eduareco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GLunPy/tesis_eduareco/issues"
+  },
+  "homepage": "https://github.com/GLunPy/tesis_eduareco#readme"
+}
