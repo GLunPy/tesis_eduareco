@@ -9,7 +9,7 @@ Herramientas a utilizar inicialmente:
 
 * FrontEnd HTML/CSS/JS inicialmente (Me gustaria cambiar a Angular o React en fases posteriores)
 * Construcción de backend Modelo MVC con Express (Framework de Node.js)
-* Base de datos a utlizar: MongoDB
+* Base de datos a utlizar: MySQL
 
 Referencias:
 
