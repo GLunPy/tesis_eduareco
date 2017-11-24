@@ -11,4 +11,10 @@ Herramientas a utilizar inicialmente:
 * Construcción de backend Modelo MVC con Express (Framework de Node.js)
 * Base de datos a utlizar: MongoDB
 
+Referencias:
+
+https://www.freecodecamp.org/glunpy
+https://codepen.io/GLun/
+https://www.udemy.com/user/eduardo-areco/
+https://codefights.com/profile/glunpy
 
