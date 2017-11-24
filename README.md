@@ -14,7 +14,10 @@ Herramientas a utilizar inicialmente:
 Referencias:
 
 https://www.freecodecamp.org/glunpy
+
 https://codepen.io/GLun/
+
 https://www.udemy.com/user/eduardo-areco/
+
 https://codefights.com/profile/glunpy
 
