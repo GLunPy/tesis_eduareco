@@ -10,5 +10,4 @@ router.get('/', function(req, res, next) {
 router.get('/habitaciones', function(req, res, next) {
   res.render('index', { title: 'Casa AltApp' });
 });
-
 module.exports = router;
