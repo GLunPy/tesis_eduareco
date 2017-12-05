@@ -1,15 +1,15 @@
 extends layout
-
-block content
-
-  .jumbotron
-    .container
-      h1 Bienvenido a #{title}
-      p Utilice el menu superior para acceder a las secciones!
-  h2 Resumen del Hostel:
-  p Habitaciones disponibles
-  p Habitaciones Ocupadas
-  p Total Ingreso del dia
-  p Total Ingreso del mes
-  p Total Egreso del dia
-  p Total Egreso del mes
+block main
+	.jumbotron.container
+		h1 Bienvenido a #{title}
+		p Utilice el menu superior para acceder a las secciones!
+	.container
+		h2 Resumen del Hostel:
+		table.table.table-bordered
+		.row
+			div.col-md-6 disponibles
+			div.col-md-6 Ocupadas
+			div.col-md-6 Ingreso del dia
+			div.col-md-6 Ingreso del mes
+			div.col-md-6 Egreso del dia
+			div.col-md-6 Egreso del mes
